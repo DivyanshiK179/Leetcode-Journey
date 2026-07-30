@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |

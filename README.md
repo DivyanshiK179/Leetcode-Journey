@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

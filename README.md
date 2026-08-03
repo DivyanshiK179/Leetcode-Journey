@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |

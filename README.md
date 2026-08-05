@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

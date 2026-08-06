@@ -2,7 +2,7 @@ class Solution {
 public:
     int smallestNumber(int n, int t) {
         int i;
-        for(i=n;i<INT_MAX;i++)
+        for(i=n;i<n+10;i++)
         {
             int prod=1;
             int temp=i;

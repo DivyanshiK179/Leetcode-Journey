@@ -6,14 +6,12 @@ class Solution {
         int len=s.length();
         char[] str=new char[len];
         int ans=Integer.MIN_VALUE;
-        int sum=0;
         for(int k=0;k<len;k++)
         {
             str[k]=s.charAt(k);
         }
         while(j<len)
         {
-            sum+=str[j];
             freq[str[j]]++;
             while(freq[str[j]]>2)
             {

@@ -7,14 +7,12 @@ public:
         vector<char> str;
         int ans=INT_MIN;
         int len=s.size();
-        int sum=0;
         for(int i=0;i<len;i++)
         {
             str.push_back(s[i]);
         }
         while(j<len)
         {
-            sum+=str[j];
             freq[str[j]]++;
             while(freq[str[j]]>2)
             {

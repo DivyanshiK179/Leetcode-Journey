@@ -12,7 +12,7 @@ public:
         {
             str.push_back(s[i]);
         }
-        while(j<s.size())
+        while(j<len)
         {
             sum+=str[j];
             freq[str[j]]++;

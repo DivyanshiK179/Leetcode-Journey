@@ -10,7 +10,7 @@ class Solution:
         s=1
         e=n
         while(s<=e):
-            mid=(s+e)//2
+            mid=s+(e-s)//2
             res=guess(mid)
             if(res==0):
                 return mid

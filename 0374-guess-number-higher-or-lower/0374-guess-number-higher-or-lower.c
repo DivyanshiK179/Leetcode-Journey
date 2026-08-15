@@ -28,5 +28,5 @@ int guessNumber(int n){
                 s=mid+1;
             }
         }
-        return 0;
+        return -1;
 }

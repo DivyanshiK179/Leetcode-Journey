@@ -1,30 +1,15 @@
-int compare(const void *a,const void *b)
-{
-    return (*(int*)a-*(int*)b);
-}
-
 bool check(int* nums, int numsSize) {
-        int *A=(int*)malloc(numsSize*sizeof(int));
+        int count=0;
         for(int i=0;i<numsSize;i++)
         {
-            A[i]=nums[i];
+            if(nums[i]>nums[(i+1)%numsSize])
+            {
+                count++;
+            }
         }
-        qsort(A,numsSize,sizeof(int),compare);
-        for(int x=0;x<numsSize;x++)
+        if(count<=1)
         {
-            bool is_match=true;
-            for(int i=0;i<numsSize;i++)
-            {
-                if(A[i]!=nums[(i+x)%numsSize])
-                {
-                    is_match=false;
-                    break;
-                }
-            }
-            if(is_match)
-            {
-                return true;
-            }
+            return true;
         }
         return false;
 }

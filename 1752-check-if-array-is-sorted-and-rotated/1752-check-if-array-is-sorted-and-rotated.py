@@ -1,12 +1,9 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        A=sorted(nums)
-        for x in range(len(nums)):
-            is_match=True
-            for i in range(len(nums)):
-                if(A[i]!=nums[(i+x)%len(nums)]):
-                    is_match=False
-                    break
-            if(is_match):
-                return True
+        count=0
+        for i in range(len(nums)):
+            if(nums[i]>nums[(i+1)%len(nums)]):
+                count+=1
+        if(count<=1):
+            return True       
         return False

@@ -1,24 +1,17 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        vector<int> A=nums;
-        sort(A.begin(),A.end());
-        int n=nums.size();
-        for(int x=0;x<n;x++)
+        int count=0;
+        for(int i=0;i<nums.size();i++)
         {
-            bool is_match=true;
-            for(int i=0;i<n;i++)
+            if(nums[i]>nums[(i+1)%nums.size()])
             {
-                if(A[i]!=nums[(i+x)%n])
-                {
-                    is_match=false;
-                    break;
-                }
+                count++;
             }
-            if(is_match)
-            {
-                return true;
-            }
+        }
+        if(count<=1)
+        {
+            return true;
         }
         return false;
     }

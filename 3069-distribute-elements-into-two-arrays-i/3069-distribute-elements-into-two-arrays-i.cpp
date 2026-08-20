@@ -18,14 +18,8 @@ public:
                 arr2.push_back(nums[i]);               
             }
         }
-        for(int i=0;i<arr1.size();i++)
-        {
-            res.push_back(arr1[i]);
-        }
-        for(int i=0;i<arr2.size();i++)
-        {
-            res.push_back(arr2[i]);
-        }
-        return res;
+        // 
+        arr1.insert(arr1.end(),arr2.begin(),arr2.end());
+        return arr1;
     }
 };

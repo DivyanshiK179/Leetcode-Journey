@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |

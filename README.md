@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0367-valid-perfect-square) |

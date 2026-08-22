@@ -22,6 +22,7 @@ class Solution {
         }
         return true;
     }
+    
 public:
     int splitArray(vector<int>& nums, int k) {
         long long total=0;

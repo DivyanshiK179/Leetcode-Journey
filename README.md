@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1140-stone-game-ii) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2029-stone-game-ix) |

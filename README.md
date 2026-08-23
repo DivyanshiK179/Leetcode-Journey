@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2594-minimum-time-to-repair-cars](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1406-stone-game-iii) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2029-stone-game-ix) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

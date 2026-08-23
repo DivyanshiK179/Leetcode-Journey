@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0035-search-insert-position) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |

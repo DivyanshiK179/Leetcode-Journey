@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2029-stone-game-ix](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2594-minimum-time-to-repair-cars](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2594-minimum-time-to-repair-cars) |

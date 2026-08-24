@@ -25,7 +25,7 @@ class Solution:
                 maxi=bloomDay[i]
         e=maxi
         while(s<=e):
-            mid=(s+e)//2;
+            mid=(s+e)//2
             if(self.ispossible(bloomDay,mid,m,k)):
                 ans=mid
                 e=mid-1

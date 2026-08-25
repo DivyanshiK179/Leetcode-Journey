@@ -14,6 +14,5 @@ public:
                 return prod;
             }
         }
-        return -1;
     }
 };

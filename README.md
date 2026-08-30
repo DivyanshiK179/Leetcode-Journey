@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

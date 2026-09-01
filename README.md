@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

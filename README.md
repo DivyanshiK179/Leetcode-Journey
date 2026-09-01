@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0372-super-pow) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

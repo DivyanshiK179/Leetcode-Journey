@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1872-stone-game-viii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |

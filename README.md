@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2270-number-of-ways-to-split-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2594-minimum-time-to-repair-cars) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |

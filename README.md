@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
@@ -417,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

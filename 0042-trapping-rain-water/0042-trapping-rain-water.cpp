@@ -15,7 +15,7 @@ public:
         {
             suffix_max[i]=max(suffix_max[i+1],height[i]);
         }
-        for(int i=0;i<height.size();i++)
+        for(int i=0;i<n;i++)
         { 
             water+=min(prefix_max[i],suffix_max[i])-height[i];
         }

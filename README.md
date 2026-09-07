@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |

@@ -13,7 +13,6 @@ class Solution {
         temp.pop_back();    
     }
 
-
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> output;

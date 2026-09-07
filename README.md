@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1872-stone-game-viii) |

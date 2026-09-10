@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |

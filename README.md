@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1406-stone-game-iii) |
@@ -457,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

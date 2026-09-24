@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |

@@ -1,14 +1,21 @@
 class Solution:
-    def solve(self, n: int, res: List[str], open: int, close: int, s: str):
-        if(open==n and close==n):
-            res.append(s)
-            return
-        if(close>open or open>n):
-            return
-        self.solve(n,res,open+1,close,s+"(")
-        self.solve(n,res,open,close+1,s+")")
-        
-    def generateParenthesis(self, n: int) -> List[str]:
-        res=[]
-        self.solve(n, res, 0, 0, "")
+    def generateParenthesis(self, n: int) -> list[str]:
+        res = []
+
+        def backtrack(open_count: int, close_count: int, current: list[str]):
+            if len(current)==2*n:
+                res.append("".join(current))
+                return
+
+            if(open_count<n):
+                current.append("(")
+                backtrack(open_count+1,close_count,current)
+                current.pop()
+
+            if close_count < open_count:
+                current.append(")")
+                backtrack(open_count,close_count+1,current)
+                current.pop()
+
+        backtrack(0,0,[])
         return res

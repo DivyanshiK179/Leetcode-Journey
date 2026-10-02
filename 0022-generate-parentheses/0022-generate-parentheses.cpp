@@ -1,24 +1,32 @@
 class Solution {
-    private:
-    void solve(int n, vector<string> &res, int open, int close, string s)
-    {
-        if(open==n && close==n)
+public:
+    void backtrack(int openCount, int closeCount, int n, string& current, vector<string>& result) {
+        if(current.length()==2*n) 
         {
-            res.push_back(s);
+            result.push_back(current);
             return;
         }
-        if(close>open || open>n)
+
+        if(openCount<n) 
         {
-            return;
+            current.push_back('(');
+            backtrack(openCount+1,closeCount,n,current,result);
+            current.pop_back();
         }
-        solve(n,res,open+1,close,s+"(");
-        solve(n,res,open,close+1,s+")");
+
+        if(closeCount<openCount) 
+        {
+            current.push_back(')');
+            backtrack(openCount,closeCount+1,n,current,result);
+            current.pop_back();
+        }
     }
 
-public:
-    vector<string> generateParenthesis(int n) {
-        vector<string> res;
-        solve(n, res, 0, 0, "");
-        return res;
+    vector<string> generateParenthesis(int n) 
+    {
+        vector<string> result;
+        string current="";
+        backtrack(0,0,n,current,result);
+        return result;
     }
 };

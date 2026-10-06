@@ -3,7 +3,7 @@ class Solution:
         open_count=0
         added=0
         for ch in s:
-            if ch=='(':
+            if(ch=='('):
                 open_count+=1
             else:
                 if(open_count>0):

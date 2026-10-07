@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory

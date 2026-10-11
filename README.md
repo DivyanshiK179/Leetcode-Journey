@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

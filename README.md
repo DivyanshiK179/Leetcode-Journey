@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -568,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

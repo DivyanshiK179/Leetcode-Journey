@@ -4,15 +4,15 @@ using namespace std;
 
 class Solution {
 private:
-    void dfs(vector<vector<int>>& grid, int r, int c, int m, int n) {
-        if (r < 0 || r >= m || c < 0 || c >= n || grid[r][c] != 0) {
+    void dfs(vector<vector<int>>& grid, int r, int c, int m, int n) 
+    {
+        if (r<0||r>=m||c<0||c>=n||grid[r][c]!=0) 
+        {
             return;
         }
         
-        // Mark as visited by sinking the land
-        grid[r][c] = 1;
-        
-        // Explore 4-directional neighbors
+        grid[r][c]=1;
+    
         dfs(grid, r + 1, c, m, n);
         dfs(grid, r - 1, c, m, n);
         dfs(grid, r, c + 1, m, n);

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyanshiK179/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
